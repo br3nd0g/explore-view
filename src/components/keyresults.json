@@ -1,0 +1,965 @@
+[
+    {
+        "measurementUnit": "%",
+        "measurementFrequency": 1,
+        "keyResultTargets": [
+            {
+                "tenantId": "Columbus",
+                "id": "90f907c0-62f5-4760-865b-980fc0087ebc",
+                "value": 25.00,
+                "dateTimeStamp": "2023-08-31T00:00:00",
+                "createdBy": null,
+                "createdDate": null,
+                "modifiedBy": null,
+                "modifiedDate": null
+            },
+            {
+                "tenantId": "Columbus",
+                "id": "9a5fda14-53cf-454d-8ba8-300455307a6a",
+                "value": 15.00,
+                "dateTimeStamp": "2023-08-06T00:00:00",
+                "createdBy": null,
+                "createdDate": null,
+                "modifiedBy": null,
+                "modifiedDate": null
+            },
+            {
+                "tenantId": "Columbus",
+                "id": "be7f6898-6894-43ac-b409-a0658926572e",
+                "value": 10.00,
+                "dateTimeStamp": "2023-08-04T00:00:00",
+                "createdBy": null,
+                "createdDate": null,
+                "modifiedBy": null,
+                "modifiedDate": null
+            },
+            {
+                "tenantId": "Columbus",
+                "id": "eae3438f-28f5-4a9b-80c9-aff3a386c21e",
+                "value": 20.00,
+                "dateTimeStamp": "2023-08-13T00:00:00",
+                "createdBy": null,
+                "createdDate": null,
+                "modifiedBy": null,
+                "modifiedDate": null
+            },
+            {
+                "tenantId": "Columbus",
+                "id": "fec2461d-2d49-40f5-95e9-cd6e2db9819d",
+                "value": 1.00,
+                "dateTimeStamp": "2023-08-01T00:00:00",
+                "createdBy": null,
+                "createdDate": null,
+                "modifiedBy": null,
+                "modifiedDate": null
+            }
+        ],
+        "keyResultActuals": [
+            {
+                "tenantId": "Columbus",
+                "id": "96557b44-1aa9-442f-a1e0-4f9f6d13addb",
+                "value": 15.00,
+                "dateTimeStamp": "2023-08-07T00:00:00",
+                "createdBy": null,
+                "createdDate": null,
+                "modifiedBy": null,
+                "modifiedDate": null
+            },
+            {
+                "tenantId": "Columbus",
+                "id": "ee7869d6-0e0d-4aeb-b394-7dd324d1fdab",
+                "value": 0.00,
+                "dateTimeStamp": "2023-08-01T00:00:00",
+                "createdBy": null,
+                "createdDate": null,
+                "modifiedBy": null,
+                "modifiedDate": null
+            }
+        ],
+        "keyResultActualtDiscussions": [],
+        "tenantId": "Columbus",
+        "id": "11dbab01-f819-42cf-8c3f-1825f9a77ef4",
+        "discriminator": "KEYRESULT",
+        "parentObjectiveKeyResultId": "d0020f72-d352-47bb-9000-9b1b5e0b28ad",
+        "objectiveKeyResults": [],
+        "name": "Achieve a 20% growth in online transactions by promoting digital banking adoption",
+        "description": "Achieve a 20% growth in online transactions by promoting digital banking adoption",
+        "displayOrder": null,
+        "plannedStartDate": "2023-08-01T00:00:00",
+        "plannedEndDate": "2023-08-31T00:00:00",
+        "actualCompletion": 0.60,
+        "status": null,
+        "statusIndex": null,
+        "ownerUsers": [
+            {
+                "id": "010bf817-13b9-4bab-88c4-9202b468dc5b",
+                "tenantId": "Columbus",
+                "name": "Chris Keith",
+                "firstName": "Chris",
+                "lastName": "Keith",
+                "email": null,
+                "projects": null,
+                "portfolios": null
+            },
+            {
+                "id": "0339e8dc-765b-4404-a4bf-7842bb4bc185",
+                "tenantId": "Columbus",
+                "name": "Nick Kuc",
+                "firstName": "Nick",
+                "lastName": "Kuc",
+                "email": null,
+                "projects": null,
+                "portfolios": null
+            },
+            {
+                "id": "03474e62-5520-4024-af20-5e1d603aa69c",
+                "tenantId": "Columbus",
+                "name": "Keith Wilkie",
+                "firstName": "Keith",
+                "lastName": "Wilkie",
+                "email": null,
+                "projects": null,
+                "portfolios": null
+            },
+            {
+                "id": "06886819-5e03-4c67-9b15-c76e2b3a2b38",
+                "tenantId": "Columbus",
+                "name": "David Voskanyan",
+                "firstName": "David",
+                "lastName": "Voskanyan",
+                "email": null,
+                "projects": null,
+                "portfolios": null
+            },
+            {
+                "id": "120b9981-2a70-4156-8a5c-d0138225b846",
+                "tenantId": "Columbus",
+                "name": "Brendan Corcoran",
+                "firstName": "Brendan",
+                "lastName": "Corcoran",
+                "email": null,
+                "projects": null,
+                "portfolios": null
+            }
+        ],
+        "discussions": [],
+        "createdBy": null,
+        "createdDate": null,
+        "modifiedBy": null,
+        "modifiedDate": null
+    },
+    {
+        "measurementUnit": "%",
+        "measurementFrequency": 90,
+        "keyResultTargets": [
+            {
+                "tenantId": "Columbus",
+                "id": "233e54f1-8fac-48fc-ba90-1482f5b8661e",
+                "value": 90.00,
+                "dateTimeStamp": "2023-08-31T00:00:00",
+                "createdBy": null,
+                "createdDate": null,
+                "modifiedBy": null,
+                "modifiedDate": null
+            },
+            {
+                "tenantId": "Columbus",
+                "id": "f47205b8-a61a-4b72-b102-d5ab9421da8d",
+                "value": 0.00,
+                "dateTimeStamp": "2023-08-01T00:00:00",
+                "createdBy": null,
+                "createdDate": null,
+                "modifiedBy": null,
+                "modifiedDate": null
+            }
+        ],
+        "keyResultActuals": [
+            {
+                "tenantId": "Columbus",
+                "id": "586cb2c9-7cdd-4933-9b8c-9b7ffffbc99c",
+                "value": 30.00,
+                "dateTimeStamp": "2023-08-04T00:00:00",
+                "createdBy": null,
+                "createdDate": null,
+                "modifiedBy": null,
+                "modifiedDate": null
+            },
+            {
+                "tenantId": "Columbus",
+                "id": "654c6eec-a91a-4a02-8ad2-59c2ed7ce595",
+                "value": 80.00,
+                "dateTimeStamp": "2023-08-07T00:00:00",
+                "createdBy": null,
+                "createdDate": null,
+                "modifiedBy": null,
+                "modifiedDate": null
+            },
+            {
+                "tenantId": "Columbus",
+                "id": "ac01fa11-3a2a-456d-aabf-8b650dcffd5a",
+                "value": 0.00,
+                "dateTimeStamp": "2023-08-01T00:00:00",
+                "createdBy": null,
+                "createdDate": null,
+                "modifiedBy": null,
+                "modifiedDate": null
+            }
+        ],
+        "keyResultActualtDiscussions": [],
+        "tenantId": "Columbus",
+        "id": "cb2380e5-e7e2-4958-b8ae-c4f8b18094fc",
+        "discriminator": "KEYRESULT",
+        "parentObjectiveKeyResultId": "a249f398-98aa-43dc-8c34-76c0ecf89500",
+        "objectiveKeyResults": [],
+        "name": "Achieve a customer satisfaction score of at least 90% in the annual survey",
+        "description": "Achieve a customer satisfaction score of at least 90% in the annual survey",
+        "displayOrder": null,
+        "plannedStartDate": "2023-08-01T00:00:00",
+        "plannedEndDate": "2023-08-31T00:00:00",
+        "actualCompletion": 0.89,
+        "status": 0,
+        "statusIndex": 0.00,
+        "ownerUsers": [
+            {
+                "id": "0339e8dc-765b-4404-a4bf-7842bb4bc185",
+                "tenantId": "Columbus",
+                "name": "Nick Kuc",
+                "firstName": "Nick",
+                "lastName": "Kuc",
+                "email": null,
+                "projects": null,
+                "portfolios": null
+            }
+        ],
+        "discussions": [],
+        "createdBy": null,
+        "createdDate": null,
+        "modifiedBy": null,
+        "modifiedDate": null
+    },
+    {
+        "measurementUnit": "AED",
+        "measurementFrequency": 30,
+        "keyResultTargets": [
+            {
+                "tenantId": "Columbus",
+                "id": "0c799b96-5a55-4697-a7c1-224b1616f90d",
+                "value": 999.00,
+                "dateTimeStamp": "2023-08-09T00:00:00",
+                "createdBy": null,
+                "createdDate": null,
+                "modifiedBy": null,
+                "modifiedDate": null
+            },
+            {
+                "tenantId": "Columbus",
+                "id": "0cb1117c-cbff-4492-ba7a-fff8480b5702",
+                "value": 111.00,
+                "dateTimeStamp": "2023-08-01T00:00:00",
+                "createdBy": null,
+                "createdDate": null,
+                "modifiedBy": null,
+                "modifiedDate": null
+            },
+            {
+                "tenantId": "Columbus",
+                "id": "44050b0f-b594-448b-afc6-7748f3e87cf2",
+                "value": 555.00,
+                "dateTimeStamp": "2023-08-05T00:00:00",
+                "createdBy": null,
+                "createdDate": null,
+                "modifiedBy": null,
+                "modifiedDate": null
+            },
+            {
+                "tenantId": "Columbus",
+                "id": "46f3e321-e90e-4df8-9eed-f604198d5d47",
+                "value": 1111.00,
+                "dateTimeStamp": "2023-08-31T00:00:00",
+                "createdBy": null,
+                "createdDate": null,
+                "modifiedBy": null,
+                "modifiedDate": null
+            },
+            {
+                "tenantId": "Columbus",
+                "id": "6bfe2453-c7b4-46f9-b840-d27448b962ff",
+                "value": 777.00,
+                "dateTimeStamp": "2023-08-07T00:00:00",
+                "createdBy": null,
+                "createdDate": null,
+                "modifiedBy": null,
+                "modifiedDate": null
+            },
+            {
+                "tenantId": "Columbus",
+                "id": "c7f172a4-024f-4e4a-882a-e898e1e5a475",
+                "value": 333.00,
+                "dateTimeStamp": "2023-08-03T00:00:00",
+                "createdBy": null,
+                "createdDate": null,
+                "modifiedBy": null,
+                "modifiedDate": null
+            }
+        ],
+        "keyResultActuals": [
+            {
+                "tenantId": "Columbus",
+                "id": "354525f9-ade6-474a-8143-997dfb08f8a2",
+                "value": 222.00,
+                "dateTimeStamp": "2023-08-02T00:00:00",
+                "createdBy": null,
+                "createdDate": null,
+                "modifiedBy": null,
+                "modifiedDate": null
+            },
+            {
+                "tenantId": "Columbus",
+                "id": "fda2f5e2-d643-4468-bcde-472614838736",
+                "value": 444.00,
+                "dateTimeStamp": "2023-08-05T00:00:00",
+                "createdBy": null,
+                "createdDate": null,
+                "modifiedBy": null,
+                "modifiedDate": null
+            }
+        ],
+        "keyResultActualtDiscussions": [],
+        "tenantId": "Columbus",
+        "id": "30d6bc46-bdb5-475d-a673-6f398678e11a",
+        "discriminator": "KEYRESULT",
+        "parentObjectiveKeyResultId": "41b760ec-c1d1-40a3-82f1-268f5e3f2096",
+        "objectiveKeyResults": [],
+        "name": "Achieve full compliance with all regulatory requirements and pass all audits with no major findings",
+        "description": "Achieve full compliance with all regulatory requirements and pass all audits with no major findings",
+        "displayOrder": null,
+        "plannedStartDate": "2023-08-01T00:00:00",
+        "plannedEndDate": "2023-08-31T00:00:00",
+        "actualCompletion": 0.40,
+        "status": 0,
+        "statusIndex": 0.00,
+        "ownerUsers": [
+            {
+                "id": "0339e8dc-765b-4404-a4bf-7842bb4bc185",
+                "tenantId": "Columbus",
+                "name": "Nick Kuc",
+                "firstName": "Nick",
+                "lastName": "Kuc",
+                "email": null,
+                "projects": null,
+                "portfolios": null
+            }
+        ],
+        "discussions": [],
+        "createdBy": null,
+        "createdDate": null,
+        "modifiedBy": null,
+        "modifiedDate": null
+    },
+    {
+        "measurementUnit": "%",
+        "measurementFrequency": 14,
+        "keyResultTargets": [
+            {
+                "tenantId": "Columbus",
+                "id": "b60131ed-5827-4dcb-afc7-17aa608f5548",
+                "value": 0.00,
+                "dateTimeStamp": "2023-08-01T00:00:00",
+                "createdBy": null,
+                "createdDate": null,
+                "modifiedBy": null,
+                "modifiedDate": null
+            },
+            {
+                "tenantId": "Columbus",
+                "id": "e2ff6410-dff6-46da-b175-2dc2d9c435c9",
+                "value": 25.00,
+                "dateTimeStamp": "2023-08-31T00:00:00",
+                "createdBy": null,
+                "createdDate": null,
+                "modifiedBy": null,
+                "modifiedDate": null
+            }
+        ],
+        "keyResultActuals": [
+            {
+                "tenantId": "Columbus",
+                "id": "91010d04-9018-4972-af06-ab05b80e4867",
+                "value": 0.00,
+                "dateTimeStamp": "2023-08-01T00:00:00",
+                "createdBy": null,
+                "createdDate": null,
+                "modifiedBy": null,
+                "modifiedDate": null
+            },
+            {
+                "tenantId": "Columbus",
+                "id": "fecd2165-bb53-4769-962b-c8b62f59be6c",
+                "value": 15.00,
+                "dateTimeStamp": "2023-08-07T00:00:00",
+                "createdBy": null,
+                "createdDate": null,
+                "modifiedBy": null,
+                "modifiedDate": null
+            }
+        ],
+        "keyResultActualtDiscussions": [],
+        "tenantId": "Columbus",
+        "id": "2e72c1bb-775d-4420-8e89-0c0384b9743e",
+        "discriminator": "KEYRESULT",
+        "parentObjectiveKeyResultId": "b358a9c6-67ad-45d9-a94c-14a39ef0d5fc",
+        "objectiveKeyResults": [],
+        "name": "Educate customers about data privacy policies and achieve a 25% increase in opt-ins for privacy settings",
+        "description": "Educate customers about data privacy policies and achieve a 25% increase in opt-ins for privacy settings",
+        "displayOrder": null,
+        "plannedStartDate": "2023-08-01T00:00:00",
+        "plannedEndDate": "2023-08-31T00:00:00",
+        "actualCompletion": 0.60,
+        "status": 0,
+        "statusIndex": 0.00,
+        "ownerUsers": [
+            {
+                "id": "06886819-5e03-4c67-9b15-c76e2b3a2b38",
+                "tenantId": "Columbus",
+                "name": "David Voskanyan",
+                "firstName": "David",
+                "lastName": "Voskanyan",
+                "email": null,
+                "projects": null,
+                "portfolios": null
+            }
+        ],
+        "discussions": [
+            {
+                "tenantId": "Columbus",
+                "id": "e309a865-45cb-4432-a755-48b26618c7cf",
+                "title": "Key result created and assigned",
+                "comment": "Key result created and assigned details...",
+                "createdBy": null,
+                "createdDate": "2023-08-07T11:29:41.073",
+                "modifiedBy": null,
+                "modifiedDate": null
+            }
+        ],
+        "createdBy": null,
+        "createdDate": null,
+        "modifiedBy": null,
+        "modifiedDate": null
+    },
+    {
+        "measurementUnit": "%",
+        "measurementFrequency": 1,
+        "keyResultTargets": [
+            {
+                "tenantId": "Columbus",
+                "id": "5355f879-37f7-41d3-9f53-98f11c0fc51c",
+                "value": 10.00,
+                "dateTimeStamp": "2023-08-15T00:00:00",
+                "createdBy": null,
+                "createdDate": null,
+                "modifiedBy": null,
+                "modifiedDate": null
+            },
+            {
+                "tenantId": "Columbus",
+                "id": "5aa16310-d20a-423a-b4ae-920c80b984aa",
+                "value": 25.00,
+                "dateTimeStamp": "2023-08-31T00:00:00",
+                "createdBy": null,
+                "createdDate": null,
+                "modifiedBy": null,
+                "modifiedDate": null
+            },
+            {
+                "tenantId": "Columbus",
+                "id": "67f70380-c855-4cf1-ab9d-22621231d544",
+                "value": 20.00,
+                "dateTimeStamp": "2023-08-29T00:00:00",
+                "createdBy": null,
+                "createdDate": null,
+                "modifiedBy": null,
+                "modifiedDate": null
+            },
+            {
+                "tenantId": "Columbus",
+                "id": "6c2059a3-14e8-445f-a500-5b3ca5f87c6b",
+                "value": 15.00,
+                "dateTimeStamp": "2023-08-22T00:00:00",
+                "createdBy": null,
+                "createdDate": null,
+                "modifiedBy": null,
+                "modifiedDate": null
+            },
+            {
+                "tenantId": "Columbus",
+                "id": "8a7592b0-00b1-4f79-884d-8409550dff2b",
+                "value": 5.00,
+                "dateTimeStamp": "2023-08-08T00:00:00",
+                "createdBy": null,
+                "createdDate": null,
+                "modifiedBy": null,
+                "modifiedDate": null
+            },
+            {
+                "tenantId": "Columbus",
+                "id": "d74a8bec-f394-4b39-9c72-2bfcb5a65577",
+                "value": 0.00,
+                "dateTimeStamp": "2023-08-01T00:00:00",
+                "createdBy": null,
+                "createdDate": null,
+                "modifiedBy": null,
+                "modifiedDate": null
+            }
+        ],
+        "keyResultActuals": [
+            {
+                "tenantId": "Columbus",
+                "id": "0e0dda37-146e-4727-8ad7-c3f7059b8faa",
+                "value": 8.00,
+                "dateTimeStamp": "2023-08-10T00:00:00",
+                "createdBy": null,
+                "createdDate": null,
+                "modifiedBy": null,
+                "modifiedDate": null
+            },
+            {
+                "tenantId": "Columbus",
+                "id": "5460b3db-6bda-42dc-ad8c-b11835893b2b",
+                "value": 6.00,
+                "dateTimeStamp": "2023-08-07T00:00:00",
+                "createdBy": null,
+                "createdDate": null,
+                "modifiedBy": null,
+                "modifiedDate": null
+            },
+            {
+                "tenantId": "Columbus",
+                "id": "608d5161-a175-498e-8d40-6b3c9b01156f",
+                "value": 0.00,
+                "dateTimeStamp": "2023-08-01T00:00:00",
+                "createdBy": null,
+                "createdDate": null,
+                "modifiedBy": null,
+                "modifiedDate": null
+            },
+            {
+                "tenantId": "Columbus",
+                "id": "a36a3a5a-1dac-490a-9ec8-2591dd1ca2eb",
+                "value": 7.00,
+                "dateTimeStamp": "2023-08-09T00:00:00",
+                "createdBy": null,
+                "createdDate": null,
+                "modifiedBy": null,
+                "modifiedDate": null
+            },
+            {
+                "tenantId": "Columbus",
+                "id": "abe39c1b-c0b7-4f3d-82c3-71c4e78f3046",
+                "value": 5.00,
+                "dateTimeStamp": "2023-08-06T00:00:00",
+                "createdBy": null,
+                "createdDate": null,
+                "modifiedBy": null,
+                "modifiedDate": null
+            }
+        ],
+        "keyResultActualtDiscussions": [],
+        "tenantId": "Columbus",
+        "id": "b3cf3a38-fec2-4cf3-a082-ed1fc713fc79",
+        "discriminator": "KEYRESULT",
+        "parentObjectiveKeyResultId": "ed6d1c91-7f1e-449c-85b1-e2334df90bf5",
+        "objectiveKeyResults": [],
+        "name": "Increase the number of no-fee or low-fee accounts opened by underserved communities by 25%",
+        "description": "SMART Objective: Achieve 25% increase in no/low-fee accounts opened by underserved communities in 1 year through targeted outreach and promotions.",
+        "displayOrder": null,
+        "plannedStartDate": "2023-08-01T00:00:00",
+        "plannedEndDate": "2023-08-31T00:00:00",
+        "actualCompletion": 0.32,
+        "status": 0,
+        "statusIndex": 0.00,
+        "ownerUsers": [
+            {
+                "id": "0339e8dc-765b-4404-a4bf-7842bb4bc185",
+                "tenantId": "Columbus",
+                "name": "Nick Kuc",
+                "firstName": "Nick",
+                "lastName": "Kuc",
+                "email": null,
+                "projects": null,
+                "portfolios": null
+            },
+            {
+                "id": "03474e62-5520-4024-af20-5e1d603aa69c",
+                "tenantId": "Columbus",
+                "name": "Keith Wilkie",
+                "firstName": "Keith",
+                "lastName": "Wilkie",
+                "email": null,
+                "projects": null,
+                "portfolios": null
+            },
+            {
+                "id": "188a413d-4393-427f-9acb-0808979a12b2",
+                "tenantId": "Columbus",
+                "name": "Ian Bruce",
+                "firstName": "Ian",
+                "lastName": "Bruce",
+                "email": null,
+                "projects": null,
+                "portfolios": null
+            }
+        ],
+        "discussions": [],
+        "createdBy": null,
+        "createdDate": null,
+        "modifiedBy": null,
+        "modifiedDate": null
+    },
+    {
+        "measurementUnit": "%",
+        "measurementFrequency": 1,
+        "keyResultTargets": [
+            {
+                "tenantId": "Columbus",
+                "id": "284bea05-21ee-4548-9980-c63857ceccc6",
+                "value": 25.00,
+                "dateTimeStamp": "2023-08-31T00:00:00",
+                "createdBy": null,
+                "createdDate": null,
+                "modifiedBy": null,
+                "modifiedDate": null
+            },
+            {
+                "tenantId": "Columbus",
+                "id": "3e49ef1e-ab0d-4636-941f-af7966972784",
+                "value": 10.00,
+                "dateTimeStamp": "2023-08-06T00:00:00",
+                "createdBy": null,
+                "createdDate": null,
+                "modifiedBy": null,
+                "modifiedDate": null
+            },
+            {
+                "tenantId": "Columbus",
+                "id": "7758762d-189d-4aee-8da5-f129ee147c4c",
+                "value": 20.00,
+                "dateTimeStamp": "2023-08-20T00:00:00",
+                "createdBy": null,
+                "createdDate": null,
+                "modifiedBy": null,
+                "modifiedDate": null
+            },
+            {
+                "tenantId": "Columbus",
+                "id": "a5c3d5f5-d305-48cf-8348-386fb2fd047b",
+                "value": 23.00,
+                "dateTimeStamp": "2023-08-27T00:00:00",
+                "createdBy": null,
+                "createdDate": null,
+                "modifiedBy": null,
+                "modifiedDate": null
+            },
+            {
+                "tenantId": "Columbus",
+                "id": "d4b70867-278f-44d5-9209-34f50d09b124",
+                "value": 15.00,
+                "dateTimeStamp": "2023-08-13T00:00:00",
+                "createdBy": null,
+                "createdDate": null,
+                "modifiedBy": null,
+                "modifiedDate": null
+            },
+            {
+                "tenantId": "Columbus",
+                "id": "dcc6856f-5234-4282-826f-f3bb4415187c",
+                "value": 5.00,
+                "dateTimeStamp": "2023-08-01T00:00:00",
+                "createdBy": null,
+                "createdDate": null,
+                "modifiedBy": null,
+                "modifiedDate": null
+            }
+        ],
+        "keyResultActuals": [
+            {
+                "tenantId": "Columbus",
+                "id": "4a6f178a-76c4-4555-b448-7e637dc07d34",
+                "value": 10.00,
+                "dateTimeStamp": "2023-08-04T00:00:00",
+                "createdBy": null,
+                "createdDate": null,
+                "modifiedBy": null,
+                "modifiedDate": null
+            },
+            {
+                "tenantId": "Columbus",
+                "id": "7a6801bc-4e02-4da8-bf81-6a125d3cc018",
+                "value": 5.00,
+                "dateTimeStamp": "2023-08-01T00:00:00",
+                "createdBy": null,
+                "createdDate": null,
+                "modifiedBy": null,
+                "modifiedDate": null
+            },
+            {
+                "tenantId": "Columbus",
+                "id": "f9fed3cc-6067-4331-bc4f-57745ccae3d8",
+                "value": 12.00,
+                "dateTimeStamp": "2023-08-07T00:00:00",
+                "createdBy": null,
+                "createdDate": null,
+                "modifiedBy": null,
+                "modifiedDate": null
+            }
+        ],
+        "keyResultActualtDiscussions": [],
+        "tenantId": "Columbus",
+        "id": "9c7839b6-f0e3-4926-9529-4ce7a5e1812b",
+        "discriminator": "KEYRESULT",
+        "parentObjectiveKeyResultId": "d0020f72-d352-47bb-9000-9b1b5e0b28ad",
+        "objectiveKeyResults": [],
+        "name": "Increase the usage of mobile banking by 25% through enhanced features and user-friendly interfaces",
+        "description": "Increase the usage of mobile banking by 25% through enhanced features and user-friendly interfaces",
+        "displayOrder": null,
+        "plannedStartDate": "2023-08-01T00:00:00",
+        "plannedEndDate": "2023-08-31T00:00:00",
+        "actualCompletion": 0.48,
+        "status": null,
+        "statusIndex": null,
+        "ownerUsers": [
+            {
+                "id": "03474e62-5520-4024-af20-5e1d603aa69c",
+                "tenantId": "Columbus",
+                "name": "Keith Wilkie",
+                "firstName": "Keith",
+                "lastName": "Wilkie",
+                "email": null,
+                "projects": null,
+                "portfolios": null
+            }
+        ],
+        "discussions": [],
+        "createdBy": null,
+        "createdDate": null,
+        "modifiedBy": null,
+        "modifiedDate": null
+    },
+    {
+        "measurementUnit": "%",
+        "measurementFrequency": 30,
+        "keyResultTargets": [
+            {
+                "tenantId": "Columbus",
+                "id": "6d2ed72f-32b9-4d4e-adc8-74e7f9ce2015",
+                "value": 20.00,
+                "dateTimeStamp": "2023-08-31T00:00:00",
+                "createdBy": null,
+                "createdDate": null,
+                "modifiedBy": null,
+                "modifiedDate": null
+            },
+            {
+                "tenantId": "Columbus",
+                "id": "d3023511-a45e-498b-a7f1-37a676d8000f",
+                "value": 0.00,
+                "dateTimeStamp": "2023-08-01T00:00:00",
+                "createdBy": null,
+                "createdDate": null,
+                "modifiedBy": null,
+                "modifiedDate": null
+            }
+        ],
+        "keyResultActuals": [
+            {
+                "tenantId": "Columbus",
+                "id": "a4232a4f-200b-4d8a-bc44-c6ac805a6850",
+                "value": 0.00,
+                "dateTimeStamp": "2023-08-01T00:00:00",
+                "createdBy": null,
+                "createdDate": null,
+                "modifiedBy": null,
+                "modifiedDate": null
+            },
+            {
+                "tenantId": "Columbus",
+                "id": "c8c6f8f5-7710-4db5-b900-96b1e2035f2e",
+                "value": 20.00,
+                "dateTimeStamp": "2023-08-07T00:00:00",
+                "createdBy": null,
+                "createdDate": null,
+                "modifiedBy": null,
+                "modifiedDate": null
+            }
+        ],
+        "keyResultActualtDiscussions": [],
+        "tenantId": "Columbus",
+        "id": "b26ade71-fd87-4725-aa34-1ad8eeaf0910",
+        "discriminator": "KEYRESULT",
+        "parentObjectiveKeyResultId": "a249f398-98aa-43dc-8c34-76c0ecf89500",
+        "objectiveKeyResults": [],
+        "name": "Reduce customer complaints by 20% through effective resolution and process improvements",
+        "description": "Reduce customer complaints by 20% through effective resolution and process improvements",
+        "displayOrder": null,
+        "plannedStartDate": "2023-08-01T00:00:00",
+        "plannedEndDate": "2023-08-31T00:00:00",
+        "actualCompletion": 1.00,
+        "status": null,
+        "statusIndex": null,
+        "ownerUsers": [
+            {
+                "id": "010bf817-13b9-4bab-88c4-9202b468dc5b",
+                "tenantId": "Columbus",
+                "name": "Chris Keith",
+                "firstName": "Chris",
+                "lastName": "Keith",
+                "email": null,
+                "projects": null,
+                "portfolios": null
+            }
+        ],
+        "discussions": [],
+        "createdBy": null,
+        "createdDate": null,
+        "modifiedBy": null,
+        "modifiedDate": null
+    },
+    {
+        "measurementUnit": "AED",
+        "measurementFrequency": 1,
+        "keyResultTargets": [
+            {
+                "tenantId": "Columbus",
+                "id": "0ac4d00b-8794-49f2-ab53-76fed9857e56",
+                "value": 30.00,
+                "dateTimeStamp": "2023-08-31T00:00:00",
+                "createdBy": null,
+                "createdDate": null,
+                "modifiedBy": null,
+                "modifiedDate": null
+            },
+            {
+                "tenantId": "Columbus",
+                "id": "77b4dedc-b24c-47da-a413-08d78531b5eb",
+                "value": 0.00,
+                "dateTimeStamp": "2023-08-01T00:00:00",
+                "createdBy": null,
+                "createdDate": null,
+                "modifiedBy": null,
+                "modifiedDate": null
+            },
+            {
+                "tenantId": "Columbus",
+                "id": "88e0ce7b-38bf-4426-8221-b96ac910d7d1",
+                "value": 20.00,
+                "dateTimeStamp": "2023-08-08T00:00:00",
+                "createdBy": null,
+                "createdDate": null,
+                "modifiedBy": null,
+                "modifiedDate": null
+            },
+            {
+                "tenantId": "Columbus",
+                "id": "aaf4640d-0486-42c2-9d36-a138d6fa9e19",
+                "value": 10.00,
+                "dateTimeStamp": "2023-08-04T00:00:00",
+                "createdBy": null,
+                "createdDate": null,
+                "modifiedBy": null,
+                "modifiedDate": null
+            },
+            {
+                "tenantId": "Columbus",
+                "id": "c5e54133-410b-4b87-a045-382e8d29fb89",
+                "value": 15.00,
+                "dateTimeStamp": "2023-08-06T00:00:00",
+                "createdBy": null,
+                "createdDate": null,
+                "modifiedBy": null,
+                "modifiedDate": null
+            },
+            {
+                "tenantId": "Columbus",
+                "id": "ef2d5662-9687-495e-8de8-836416473cba",
+                "value": 5.00,
+                "dateTimeStamp": "2023-08-03T00:00:00",
+                "createdBy": null,
+                "createdDate": null,
+                "modifiedBy": null,
+                "modifiedDate": null
+            }
+        ],
+        "keyResultActuals": [
+            {
+                "tenantId": "Columbus",
+                "id": "88357b08-a312-4f54-9512-01691251fcc9",
+                "value": 5.00,
+                "dateTimeStamp": "2023-08-01T00:00:00",
+                "createdBy": null,
+                "createdDate": null,
+                "modifiedBy": null,
+                "modifiedDate": null
+            },
+            {
+                "tenantId": "Columbus",
+                "id": "a22aa83d-062e-452b-b217-ffb97dea9941",
+                "value": 25.00,
+                "dateTimeStamp": "2023-08-07T00:00:00",
+                "createdBy": null,
+                "createdDate": null,
+                "modifiedBy": null,
+                "modifiedDate": null
+            },
+            {
+                "tenantId": "Columbus",
+                "id": "a5f6d1b6-8410-4634-b367-2d0cadff6f3b",
+                "value": 10.00,
+                "dateTimeStamp": "2023-08-03T00:00:00",
+                "createdBy": null,
+                "createdDate": null,
+                "modifiedBy": null,
+                "modifiedDate": null
+            },
+            {
+                "tenantId": "Columbus",
+                "id": "ddf2cec5-e14a-405d-aa99-1ab2f81736a3",
+                "value": 15.00,
+                "dateTimeStamp": "2023-08-05T00:00:00",
+                "createdBy": null,
+                "createdDate": null,
+                "modifiedBy": null,
+                "modifiedDate": null
+            }
+        ],
+        "keyResultActualtDiscussions": [],
+        "tenantId": "Columbus",
+        "id": "3b86d3ca-eec5-454f-b47f-f3a54d4ce65e",
+        "discriminator": "KEYRESULT",
+        "parentObjectiveKeyResultId": "41b760ec-c1d1-40a3-82f1-268f5e3f2096",
+        "objectiveKeyResults": [],
+        "name": "Reduce the average response time to resolve risk-related issues by 30%",
+        "description": "Reduce the average response time to resolve risk-related issues by 30%",
+        "displayOrder": null,
+        "plannedStartDate": "2023-08-01T00:00:00",
+        "plannedEndDate": "2023-08-31T00:00:00",
+        "actualCompletion": 0.83,
+        "status": null,
+        "statusIndex": null,
+        "ownerUsers": [
+            {
+                "id": "010bf817-13b9-4bab-88c4-9202b468dc5b",
+                "tenantId": "Columbus",
+                "name": "Chris Keith",
+                "firstName": "Chris",
+                "lastName": "Keith",
+                "email": null,
+                "projects": null,
+                "portfolios": null
+            }
+        ],
+        "discussions": [],
+        "createdBy": null,
+        "createdDate": null,
+        "modifiedBy": null,
+        "modifiedDate": null
+    }
+]

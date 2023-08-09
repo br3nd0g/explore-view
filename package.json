@@ -8,9 +8,17 @@
     "lint": "vue-cli-service lint"
   },
   "dependencies": {
+    "@highcharts/map-collection": "^2.1.0",
+    "@types/d3-selection": "^3.0.5",
+    "@types/d3-transition": "^3.0.3",
     "core-js": "^3.8.3",
+    "d3": "^7.8.5",
+    "highcharts-vue": "^1.4.3",
+    "sass": "^1.64.2",
+    "sass-loader": "^13.3.2",
     "vue": "^2.6.14",
-    "vuetify": "^3.3.10"
+    "vuetify": "^3.3.11",
+    "webpack": "^5.88.2"
   },
   "devDependencies": {
     "@babel/core": "^7.12.16",

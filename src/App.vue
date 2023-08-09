@@ -1,16 +1,16 @@
 <template>
   <div id="app">
-    <ObjectiveExplore />
+    <treemap />
   </div>
 </template>
 
 <script>
-import ObjectiveExplore from './components/ObjectiveExplore.vue'
+import treemap from './components/treemap.vue'
 
 export default {
   name: 'App',
   components: {
-    ObjectiveExplore
+    treemap
   }
 }
 </script>
