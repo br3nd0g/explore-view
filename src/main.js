@@ -3,7 +3,7 @@ import App from './App.vue'
 import Highcharts from 'highcharts'
 import Treemap from 'highcharts/modules/treemap'
 import Heatmap from 'highcharts/modules/heatmap'
-import Drilldown from 'highcharts/modules/drilldown'
+import Drilldown from 'highcharts/modules/drilldown.js'
 
 Treemap(Highcharts);
 Heatmap(Highcharts);
